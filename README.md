@@ -1,4 +1,4 @@
-# 🎬 AutoStream Conversational AI Agent (Gemini Version)
+# 🎬 AutoStream Conversational AI Agent
 
 An agentic, LangGraph-powered sales assistant for AutoStream using **Google Gemini 1.5 Flash** (free tier).
 
