@@ -1,0 +1,57 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators.",
+    "description": "AutoStream is a SaaS platform that uses AI to automate video editing, captioning, and optimization for content creators across YouTube, Instagram, TikTok, and more."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price_monthly": 29,
+        "features": [
+          "10 videos per month",
+          "720p resolution",
+          "Standard editing templates",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro Plan",
+        "price_monthly": 79,
+        "features": [
+          "Unlimited videos",
+          "4K resolution",
+          "AI-powered captions",
+          "Priority 24/7 support",
+          "Advanced editing templates",
+          "Analytics dashboard"
+        ]
+      }
+    ]
+  },
+  "policies": {
+    "refund": "No refunds after 7 days of purchase.",
+    "support": "24/7 support is available only on the Pro plan. Basic plan users get email support only.",
+    "trial": "A 7-day free trial is available for all new users.",
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of your billing period."
+  },
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports YouTube, Instagram, TikTok, Facebook, and Twitter/X."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can switch plans at any time. Changes take effect on your next billing cycle."
+    },
+    {
+      "question": "Does AutoStream support team collaboration?",
+      "answer": "Team collaboration features are available on the Pro plan, allowing up to 5 team members."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream supports MP4, MOV, AVI, and MKV input formats. Output is optimized per platform."
+    }
+  ]
+}
